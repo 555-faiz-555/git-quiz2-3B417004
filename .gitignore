@@ -1,0 +1,10 @@
+# Python 暫存檔
+__pycache__/
+*.py[cod]
+
+# Python 虛擬環境
+venv/
+.venv/
+
+# VS Code 個人設定
+.vscode/
